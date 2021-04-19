@@ -3,4 +3,4 @@ def doDivision
     b=5
     c=a/b
     print(c)
-doDivision()
+doDivision()#division of two numbers
