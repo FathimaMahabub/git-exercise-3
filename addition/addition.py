@@ -3,4 +3,4 @@ def doAddition
     b=10
     c=a+b
     print(c)
-doAddition()
+doAddition()#addition of two numbers
